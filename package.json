@@ -1,0 +1,25 @@
+{
+  "name": "top-testingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriySydorchuk/TOP-testingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriySydorchuk/TOP-testingPractice/issues"
+  },
+  "homepage": "https://github.com/AndriySydorchuk/TOP-testingPractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.4.2"
+  }
+}
